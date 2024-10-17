@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Oct 15 21:25:16 CST 2024","Tue Oct 15 21:25:16 CST 2024","0","","7allure_测试报告","","","","test_failure","this test fails"
+"broken","Tue Oct 15 21:25:16 CST 2024","Tue Oct 15 21:25:16 CST 2024","1","","7allure_测试报告","","","","test_broken",""
+"skipped","Tue Oct 15 21:25:16 CST 2024","Tue Oct 15 21:25:16 CST 2024","0","","7allure_测试报告","","","","test_skip","this test is shipped"
+"passed","Tue Oct 15 21:25:16 CST 2024","Tue Oct 15 21:25:16 CST 2024","0","","7allure_测试报告","","","","test_success","this test succeeds"
